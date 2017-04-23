@@ -1,0 +1,12 @@
+﻿  Textures.cpp
+Textures.cpp(88): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+Textures.cpp(42): warning C4100: 'lpCmdLine': unreferenced formal parameter
+Textures.cpp(41): warning C4100: 'hPrevInstance': unreferenced formal parameter
+Textures.cpp(151): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: see declaration of 'wcscpy'
+Textures.cpp(211): warning C4238: nonstandard extension used: class rvalue used as lvalue
+Textures.cpp(210): warning C4238: nonstandard extension used: class rvalue used as lvalue
+Textures.cpp(209): warning C4238: nonstandard extension used: class rvalue used as lvalue
+c:\users\huozi\documents\visual studio projects\directxsamples\textures\textures.cpp(310): warning C4715: 'getEnumName': not all control paths return a value
+  Textures_2010.vcxproj -> C:\Users\huozi\Documents\Visual Studio Projects\DirectXSamples\Textures\x64\Debug\Textures.exe
+  Textures_2010.vcxproj -> C:\Users\huozi\Documents\Visual Studio Projects\DirectXSamples\Textures\x64\Debug\Textures.pdb (Full PDB)
